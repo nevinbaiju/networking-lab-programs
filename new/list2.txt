@@ -1,0 +1,31 @@
+total 112
+drwxrwxr-x 4 sct sct 4096 Mar 26 16:20 .
+drwxrwxr-x 3 sct sct 4096 Mar 26 15:00 ..
+-rw-rw-r-- 1 sct sct  503 Jan 12 15:48 childparent.c
+-rw-rw-r-- 1 sct sct 1394 Feb 26 16:07 dualpipe.c
+-rwxrwxr-x 1 sct sct 7872 Mar 26 16:20 ftp-client
+-rw-rw-r-- 1 sct sct 3381 Mar 26 16:20 ftp-client.c
+-rwxrwxr-x 1 sct sct 7989 Mar 26 15:53 ftp-server
+-rw-rw-r-- 1 sct sct 3245 Mar 26 15:45 ftp-server.c
+drwxrwxr-x 8 sct sct 4096 Mar 26 15:01 .git
+-rwx------ 1 sct sct 1500 Mar 26 15:45 list2.txt
+-rwx------ 1 sct sct    0 Mar 26 15:10 list3.txt
+-rw-rw-r-- 1 sct sct    0 Mar 26 16:21 list.txt
+-rw-rw-r-- 1 sct sct 1014 Jan 12 15:53 matrix_add_mul.c
+-rw-rw-r-- 1 sct sct  624 Feb 26 16:07 msgqclient.c
+-rw-rw-r-- 1 sct sct  602 Feb 23 15:54 msgqserver.c
+-rw-rw-r-- 1 sct sct  894 Feb 26 16:07 msgqservr.c
+drwxrwxr-x 2 sct sct 4096 Mar 26 16:21 new
+-rw-rw-r-- 1 sct sct 1747 Mar 17 02:47 np8_mul_cli.c
+-rw-rw-r-- 1 sct sct 2900 Mar 17 03:01 np8_mul_ser.c
+-rw-rw-r-- 1 sct sct   69 Mar 26 15:00 README.md
+-rw-rw-r-- 1 sct sct  592 Feb 26 16:07 shared_memory_reader.c
+-rw-rw-r-- 1 sct sct  589 Feb 26 16:08 shared_memory_writer.c
+-rw-rw-r-- 1 sct sct    0 Jan 23 11:16 singlepipe.c
+-rw-rw-r-- 1 sct sct  693 Mar 12 15:16 tcpclient.c
+-rw-rw-r-- 1 sct sct 3195 Mar 26 15:09 tcp-server.c
+-rw-rw-r-- 1 sct sct 1032 Mar 12 15:16 tcpserver.c
+-rw-rw-r-- 1 sct sct  836 Mar 16 14:46 udp_client_rec.c
+-rw-rw-r-- 1 sct sct 1451 Mar 16 14:56 udp_server.c
+-rw-rw-r-- 1 sct sct 1110 Mar 16 14:32 upd_client.c
+rw-r-- 1 sc
